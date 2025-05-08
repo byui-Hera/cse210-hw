@@ -1,0 +1,15 @@
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week01\Exercise3\bin\Debug\net8.0\Exercise3.exe
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week01\Exercise3\bin\Debug\net8.0\Exercise3.deps.json
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week01\Exercise3\bin\Debug\net8.0\Exercise3.runtimeconfig.json
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week01\Exercise3\bin\Debug\net8.0\Exercise3.dll
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week01\Exercise3\bin\Debug\net8.0\Exercise3.pdb
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week01\Exercise3\obj\Debug\net8.0\Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week01\Exercise3\obj\Debug\net8.0\Exercise3.AssemblyInfoInputs.cache
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week01\Exercise3\obj\Debug\net8.0\Exercise3.AssemblyInfo.cs
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week01\Exercise3\obj\Debug\net8.0\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week01\Exercise3\obj\Debug\net8.0\Exercise3.sourcelink.json
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week01\Exercise3\obj\Debug\net8.0\Exercise3.dll
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week01\Exercise3\obj\Debug\net8.0\refint\Exercise3.dll
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week01\Exercise3\obj\Debug\net8.0\Exercise3.pdb
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week01\Exercise3\obj\Debug\net8.0\Exercise3.genruntimeconfig.cache
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week01\Exercise3\obj\Debug\net8.0\ref\Exercise3.dll
