@@ -20,7 +20,9 @@ public class Entry
 }
 
 
-// Removed duplicate using directives
+using System;
+using System.Collections.Generic;
+using System.IO;
 
 public class Journal
 {
@@ -107,5 +109,3 @@ public class Journal
         Console.WriteLine("Journal loaded successfully!\n");
     }
 }
-
-
