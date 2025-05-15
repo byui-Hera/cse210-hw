@@ -3,3 +3,13 @@ C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cs
 C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week02\Journal\obj\Debug\net8.0\Journal.AssemblyInfo.cs
 C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week02\Journal\obj\Debug\net8.0\Journal.csproj.CoreCompileInputs.cache
 C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week02\Journal\obj\Debug\net8.0\Journal.sourcelink.json
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week02\Journal\bin\Debug\net8.0\Journal.exe
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week02\Journal\bin\Debug\net8.0\Journal.deps.json
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week02\Journal\bin\Debug\net8.0\Journal.runtimeconfig.json
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week02\Journal\bin\Debug\net8.0\Journal.dll
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week02\Journal\bin\Debug\net8.0\Journal.pdb
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week02\Journal\obj\Debug\net8.0\Journal.dll
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week02\Journal\obj\Debug\net8.0\refint\Journal.dll
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week02\Journal\obj\Debug\net8.0\Journal.pdb
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week02\Journal\obj\Debug\net8.0\Journal.genruntimeconfig.cache
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week02\Journal\obj\Debug\net8.0\ref\Journal.dll

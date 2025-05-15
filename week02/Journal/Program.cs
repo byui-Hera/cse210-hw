@@ -7,31 +7,25 @@
 // - A title prompt for journal entries ensures that entries are not static and allows for more personalized organization.
 // - Finally, I’ve added a check to prevent overwriting files by appending a counter `(n)` to the filename if the file already exists, ensuring each file has a unique name.
 
+using System;
+
 class Program
 {
     static void Main(string[] args)
     {
         Journal journal = new Journal();
-        bool running = true;
+        string choice = "";
 
-        journal.WriteEntry();
-
-        while (running)
+        while (choice != "5")
         {
-            Console.WriteLine("\nJournal Menu:");
+            Console.WriteLine("Journal Menu:");
             Console.WriteLine("1. Write a new entry");
-            Console.WriteLine("2. Display the current/loaded Journal entries");
+            Console.WriteLine("2. Display the journal");
             Console.WriteLine("3. Save the journal to a file");
             Console.WriteLine("4. Load the journal from a file");
             Console.WriteLine("5. Quit");
-
-            if (!string.IsNullOrEmpty(Journal.SaveLocation))
-            {
-                Console.WriteLine("6. Change Save Folder Location");
-            }
             Console.Write("Choose an option: ");
-
-            string choice = Console.ReadLine();
+            choice = Console.ReadLine();
 
             switch (choice)
             {
@@ -42,45 +36,16 @@ class Program
                     journal.DisplayEntries();
                     break;
                 case "3":
-                    journal.SaveJournal();
+                    journal.SaveToFile();
                     break;
                 case "4":
-                    Console.WriteLine("\nCurrent Save Folder: " + Journal.SaveLocation);
-                    Console.WriteLine("Available files:");
-                    if (Directory.Exists(Journal.SaveLocation))
-                    {
-                        string[] files = Directory.GetFiles(Journal.SaveLocation);
-                        foreach (string file in files)
-                        {
-                            Console.WriteLine(Path.GetFileName(file));
-                        }
-                    }
-                    else
-                    {
-                        Console.WriteLine("Failure: The Specified folder does not exist.");
-                    }
-
-                    Console.Write("Enter filename to load: ");
-                    string loadFile = Console.ReadLine();
-                    journal.UnsavedEntriesCheck();
-                    journal.LoadFromFile(loadFile);
+                    journal.LoadFromFile();
                     break;
                 case "5":
-                    journal.UnsavedEntriesCheck();
-                    running = false;
-                    break;
-                case "6":
-                    if (!string.IsNullOrEmpty(Journal.SaveLocation))
-                    {
-                        journal.SetSaveLocation();
-                    }
-                    else
-                    {
-                        Console.WriteLine("Invalid option. Please try again.");
-                    }
+                    Console.WriteLine("Goodbye!");
                     break;
                 default:
-                    Console.WriteLine("Invalid option. Please try again.");
+                    Console.WriteLine("Invalid choice. Please try again.\n");
                     break;
             }
         }
