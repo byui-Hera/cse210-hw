@@ -20,9 +20,7 @@ public class Entry
 }
 
 
-using System;
-using System.Collections.Generic;
-using System.IO;
+// Removed duplicate using directives
 
 public class Journal
 {
