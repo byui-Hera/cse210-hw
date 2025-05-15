@@ -1,0 +1,5 @@
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week02\Journal\obj\Debug\net8.0\Journal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week02\Journal\obj\Debug\net8.0\Journal.AssemblyInfoInputs.cache
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week02\Journal\obj\Debug\net8.0\Journal.AssemblyInfo.cs
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week02\Journal\obj\Debug\net8.0\Journal.csproj.CoreCompileInputs.cache
+C:\Users\Hera\Documents\Hera\BYU Pathway (University skills and byui)\CSE 210\cse210-hw\week02\Journal\obj\Debug\net8.0\Journal.sourcelink.json
