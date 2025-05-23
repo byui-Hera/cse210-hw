@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>ScriptureMemorizer</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Scripture.cs" />
+    <Compile Include="Reference.cs" />
+    <Compile Include="Word.cs" />
+  </ItemGroup>
+
+</Project>
