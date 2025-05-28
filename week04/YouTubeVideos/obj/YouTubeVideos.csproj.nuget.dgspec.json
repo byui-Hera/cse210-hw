@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Hera\\Documents\\Hera\\BYU Pathway (University skills and byui)\\CSE 210\\cse210-hw\\week04\\YouTubeVideos\\YouTubeVideos.csproj": {}
+    "C:\\Users\\Hera\\Documents\\Hera\\BYU Pathway (University skills and byui)\\CSE 210\\cse210-hw\\week04\\YouTubeVideos\\YouTubeVideos.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Hera\\Documents\\Hera\\BYU Pathway (University skills and byui)\\CSE 210\\cse210-hw\\week04\\YouTubeVideos\\YouTubeVideos.csproj": {
+    "C:\\Users\\Hera\\Documents\\Hera\\BYU Pathway (University skills and byui)\\CSE 210\\cse210-hw\\week04\\YouTubeVideos\\YouTubeVideos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Hera\\Documents\\Hera\\BYU Pathway (University skills and byui)\\CSE 210\\cse210-hw\\week04\\YouTubeVideos\\YouTubeVideos.csproj",
+        "projectUniqueName": "C:\\Users\\Hera\\Documents\\Hera\\BYU Pathway (University skills and byui)\\CSE 210\\cse210-hw\\week04\\YouTubeVideos\\YouTubeVideos.csproj",
         "projectName": "YouTubeVideos",
-        "projectPath": "c:\\Users\\Hera\\Documents\\Hera\\BYU Pathway (University skills and byui)\\CSE 210\\cse210-hw\\week04\\YouTubeVideos\\YouTubeVideos.csproj",
+        "projectPath": "C:\\Users\\Hera\\Documents\\Hera\\BYU Pathway (University skills and byui)\\CSE 210\\cse210-hw\\week04\\YouTubeVideos\\YouTubeVideos.csproj",
         "packagesPath": "C:\\Users\\Hera\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Hera\\Documents\\Hera\\BYU Pathway (University skills and byui)\\CSE 210\\cse210-hw\\week04\\YouTubeVideos\\obj\\",
+        "outputPath": "C:\\Users\\Hera\\Documents\\Hera\\BYU Pathway (University skills and byui)\\CSE 210\\cse210-hw\\week04\\YouTubeVideos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hera\\AppData\\Roaming\\NuGet\\NuGet.Config"
