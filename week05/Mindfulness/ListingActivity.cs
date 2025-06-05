@@ -20,7 +20,6 @@ public class ListingActivity : MindfulnessActivity
         Console.WriteLine(prompts[rand.Next(prompts.Length)]);
         Countdown(5);
 
-        int timeElapsed = 0;
         List<string> entries = new List<string>();
         DateTime startTime = DateTime.Now;
 
