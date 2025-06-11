@@ -1,5 +1,1 @@
-870
-SimpleGoal|Give a talk|Speak in Sacrament meeting when asked|100|True
-EternalGoal|Study the scriptures|Study for at least 10 minutes|50
-ChecklistGoal|Attend the temple|Attend and perform any ordinance|50|3|500|3
-ChecklistGoal|Wake up early|Wake up at least 6:00am|10|10|1000|2
+
