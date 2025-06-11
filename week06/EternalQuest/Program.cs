@@ -13,6 +13,11 @@ using System.IO;
 
 class Program
 {
-    // ...existing code...
+    static void Main(string[] args)
+    {
+        // Entry point for the Eternal Quest program
+        Console.WriteLine("Welcome to Eternal Quest!");
+        // ...existing code...
+    }
 }
 
