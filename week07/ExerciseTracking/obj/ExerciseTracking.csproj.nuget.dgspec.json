@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Hera\\Documents\\Hera\\BYU Pathway (University skills and byui)\\CSE 210\\cse210-hw\\week07\\ExerciseTracking\\ExerciseTracking.csproj": {}
+    "C:\\Users\\Hera\\Documents\\Hera\\BYU Pathway (University skills and byui)\\CSE 210\\cse210-hw\\week07\\ExerciseTracking\\ExerciseTracking.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Hera\\Documents\\Hera\\BYU Pathway (University skills and byui)\\CSE 210\\cse210-hw\\week07\\ExerciseTracking\\ExerciseTracking.csproj": {
+    "C:\\Users\\Hera\\Documents\\Hera\\BYU Pathway (University skills and byui)\\CSE 210\\cse210-hw\\week07\\ExerciseTracking\\ExerciseTracking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Hera\\Documents\\Hera\\BYU Pathway (University skills and byui)\\CSE 210\\cse210-hw\\week07\\ExerciseTracking\\ExerciseTracking.csproj",
+        "projectUniqueName": "C:\\Users\\Hera\\Documents\\Hera\\BYU Pathway (University skills and byui)\\CSE 210\\cse210-hw\\week07\\ExerciseTracking\\ExerciseTracking.csproj",
         "projectName": "ExerciseTracking",
-        "projectPath": "c:\\Users\\Hera\\Documents\\Hera\\BYU Pathway (University skills and byui)\\CSE 210\\cse210-hw\\week07\\ExerciseTracking\\ExerciseTracking.csproj",
+        "projectPath": "C:\\Users\\Hera\\Documents\\Hera\\BYU Pathway (University skills and byui)\\CSE 210\\cse210-hw\\week07\\ExerciseTracking\\ExerciseTracking.csproj",
         "packagesPath": "C:\\Users\\Hera\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Hera\\Documents\\Hera\\BYU Pathway (University skills and byui)\\CSE 210\\cse210-hw\\week07\\ExerciseTracking\\obj\\",
+        "outputPath": "C:\\Users\\Hera\\Documents\\Hera\\BYU Pathway (University skills and byui)\\CSE 210\\cse210-hw\\week07\\ExerciseTracking\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hera\\AppData\\Roaming\\NuGet\\NuGet.Config"
